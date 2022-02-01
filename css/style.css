@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img {
+    margin: 10px auto;
+    height: 150px;
+    width: 300px;
+}
+
+input[type="search"]{
+    padding: 2px 70px;
+}
+
+.content {
+    background-color: cadetblue;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content-1 {
+    background-color: darkturquoise;
+    height: 200px;
+    width: 300px;
+    float: left;
+}
+.content-2 {
+
+    background-color: rgb(9, 147, 150);
+    height: 200px;
+    width: 300px;
+    float: left;    
+}
+.content-2 a {
+    padding: 50px 50px;
+    display: block;
+}
+
+.content-3 {
+    background-color: rgb(70, 247, 250);
+    height: 200px;
+    width: 300px;
+    float: left;
+}
+.content-3 button {
+    padding: 2px 20px;
+}
+.content-3 input[type="search"] {
+    padding: 2px 20px;
+}
